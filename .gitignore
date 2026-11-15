@@ -1,0 +1,26 @@
+# Environment & OS
+.env
+.env.local
+*.env
+.DS_Store
+Thumbs.db
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Logs & Runtime
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
